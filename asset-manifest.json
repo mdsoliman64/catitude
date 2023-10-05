@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/catitude/static/css/main.56621194.css",
-    "main.js": "/catitude/static/js/main.6d7f1fd3.js",
+    "main.js": "/catitude/static/js/main.6be1f5b3.js",
     "static/media/bg.png": "/catitude/static/media/bg.0696b156b946cd5b2b01.png",
     "index.html": "/catitude/index.html",
     "main.56621194.css.map": "/catitude/static/css/main.56621194.css.map",
-    "main.6d7f1fd3.js.map": "/catitude/static/js/main.6d7f1fd3.js.map"
+    "main.6be1f5b3.js.map": "/catitude/static/js/main.6be1f5b3.js.map"
   },
   "entrypoints": [
     "static/css/main.56621194.css",
-    "static/js/main.6d7f1fd3.js"
+    "static/js/main.6be1f5b3.js"
   ]
 }
